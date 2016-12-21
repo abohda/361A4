@@ -1,0 +1,6 @@
+﻿  Q3.cpp
+d:\documents\programming\vs\361a4\361a4\q3.cpp(11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\documents\programming\vs\361a4\361a4\q3.cpp(15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\documents\programming\vs\361a4\361a4\q3.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\documents\programming\vs\361a4\361a4\q3.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  361A4.vcxproj -> D:\Documents\Programming\VS\361A4\Debug\361A4.exe
